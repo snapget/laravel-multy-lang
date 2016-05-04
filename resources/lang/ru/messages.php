@@ -1,0 +1,22 @@
+<?php
+return [
+    'profile' => 'Профиль',
+    'home' => 'Главная',
+    'English' => 'Английский',
+    'Russian' => 'Русский',
+    'Ukrainian' => 'Украинский',
+    'German' => 'Немецкий',
+    'Confirm Password' => 'Подтвердите Пароль',
+    'Hello' => 'Привет :username',
+    'Name' => 'Имя',
+    'E-Mail Address' => 'E-Mail Адрес',
+    'Locale' => 'Локализация',
+    'Password' => 'Пароль',
+    'Update' => 'Обновить',
+    'Login' => 'Авторизоваться',
+    'Remember Me' => 'Запомни меня',
+    'Forgot Your Password?' => 'Забыли пароль?',
+    'Register' => 'Регистрация',
+    'Dashboard' => 'Приборная панель',
+    'You are logged in!' => 'Вы вошли в систему!',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+    'profile' => 'Profil',
+    'home' => 'Zuhause',
+    'English' => 'Englisch',
+    'Russian' => 'Russisch',
+    'Ukrainian' => 'Ukrainisch',
+    'German' => 'Deutsche',
+    'Confirm Password' => 'Bestätige das Passwort',
+    'Hello' => 'Hallo :username',
+    'Name' => 'Name',
+    'E-Mail Address' => 'E-Mail Adresse',
+    'Locale' => 'Lokal',
+    'Password' => 'Passwort',
+    'Update' => 'Aktualisieren',
+    'Login' => 'Anmeldung',
+    'Remember Me' => 'Erinnere dich an mich',
+    'Forgot Your Password?' => 'Haben Sie Ihr Passwort vergessen?',
+    'Register' => 'Neu registrieren',
+    'Dashboard' => 'Instrumententafel',
+    'You are logged in!' => 'Du bist eingeloggt!',
+];

@@ -1,0 +1,23 @@
+<?php
+return [
+    'profile' => 'Профіль',
+    'home' => 'Головна',
+    'English' => 'Англійська',
+    'Russian' => 'Російська',
+    'Ukrainian' => 'Українська',
+    'German' => 'Німецька',
+    'Confirm Password' => 'Підтвердити пароль',
+    'Hello' => 'Привіт :username',
+    'Name' => 'Ім\'я',
+    'E-Mail Address' => 'E-Mail Адреса',
+    'Locale' => 'Локалізація',
+    'Password' => 'Пароль',
+    'Update' => 'Редагувати',
+    'Login' => 'Увійти',
+    'Remember Me' => 'Запам\'ятати мене',
+    'Forgot Your Password?' => 'Забув пароль?',
+    'Register' => 'Реєстрація',
+    'Dashboard' => 'Панель приладів',
+    'You are logged in!' => 'Ви увійшли!',
+    'Logout' => 'Вихід',
+];
